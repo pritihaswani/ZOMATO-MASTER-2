@@ -64,7 +64,6 @@ await ValidateSignin(req.body.credentials);
   }
 });
 
-
 /*
 Route         /google
 Descrip       Google Signin
